@@ -7,7 +7,7 @@ public class ServicoPediatra implements IServico{
 
     @Override
     public float cobranca() {
-        return 240;
+        return 420;
     }
 
 }
